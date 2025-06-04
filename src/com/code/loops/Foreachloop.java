@@ -1,0 +1,13 @@
+package com.code.loops;
+
+public class Foreachloop {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		   int[] numbers = {10, 20, 30, 40, 50};
+	        for (int num : numbers) {
+	            System.out.println(num);
+	        }
+	}
+
+}
